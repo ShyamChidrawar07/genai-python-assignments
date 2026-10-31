@@ -1,0 +1,3 @@
+mouse | 500.0
+Keyboard | 800.0
+Monitor | 7000.0
