@@ -1,4 +1,0 @@
-This is demo file for Exception Handling
-Exception OSError class
-raise FileNotFoundError and
-PermissionError
